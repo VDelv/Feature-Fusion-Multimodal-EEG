@@ -4,6 +4,10 @@ Implementation of the proposed approaches to fuse EEG signals with other modalit
 
 ## Instruction
 
+The three approaches presented in the paper are available in three notebooks:
+* [Compact Bilinear Pooling](Naive_Fusion.ipynb)
+* [FiLM](FiLM_Fusion.ipynb)
+* [Multi Head Attention](Attention_Fusion.ipynb)
 
 ## Installation and Dependencies
 
